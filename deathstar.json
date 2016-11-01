@@ -13,6 +13,10 @@
         },
 	"price": {
     		"amount": 1000000000000,
-		"currency": "galactic credits"
+			"currency": "galactic credits"
+	},
+	"power": {
+		"unit":"giga-watt",
+		"value": 17
 	}
 }
