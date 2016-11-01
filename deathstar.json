@@ -12,7 +12,13 @@
 		"height": 120
         },
 	"price": {
-    		"amount": 10000000000000,
+		"amount": 1000000000000,
 		"currency": "galactic credits"
-	}
+		},
+	"power": {
+		"unit":"giga-watt",
+		"value": 17
+		},
+	"amount": 10000000000000,
+	"currency": "galactic credits"
 }
