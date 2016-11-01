@@ -2,6 +2,7 @@
 	"id": 1,
 	"name": "Hendrawan Star",
 	"identifier": "DS-1 platform",
+	"number": "112233",
 	"commander": "Grand Moff",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
